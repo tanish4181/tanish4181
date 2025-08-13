@@ -132,11 +132,12 @@ OLMS is a web-based platform for managing library operations like book inventory
 ## 🤝 Let’s Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/tanish4181" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.leetcode.com/tanish4181" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-<a href="mailto:tanish41813@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://twitter.com/tanish4181" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://www.youtube.com/c/tanish4181y" target="blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+<a href="https://twitter.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish4181" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish4181" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanish4181" height="30" width="40" /></a>
+<a href="https://medium.com/@tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanish4181" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Tanish4181yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanish4181y" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanish4181" height="30" width="40" /></a>
 </p>
 
 ---
@@ -147,13 +148,3 @@ OLMS is a web-based platform for managing library operations like book inventory
 <a href="https://www.buymeacoffee.com/tanish4181"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
 <a href="https://ko-fi.com/tanish4181"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a>
 </p>
-
----
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Tech Quote" />
-</div>
-<div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>  
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-</div>
