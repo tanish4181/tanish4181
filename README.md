@@ -160,9 +160,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-jadaun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanish4181&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanish4181&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
 
 
 
@@ -172,7 +172,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-jadaun&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanish4181&theme=tokyo-night&hide_border=true&area=true" alt="Tanish Activity Graph" />
 </div>
 
 <div align="center">
@@ -206,7 +206,7 @@
 
 <p align="center">
 I'm always excited to connect with fellow developers, designers, tech enthusiasts, and potential collaborators! <br/>
-Whether you want to discuss a project idea, talk tech (Web3, ML, System Design!), or just say hi, feel free to reach out.
+Whether you want to discuss a project idea, talk tech (AI,ML, System Design!), or just say hi, feel free to reach out.
 </p>
 <p align="center">
 <a href="https://twitter.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish4181" height="30" width="40" /></a>
@@ -217,7 +217,7 @@ Whether you want to discuss a project idea, talk tech (Web3, ML, System Design!)
 <a href="https://www.leetcode.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanish4181" height="30" width="40" /></a>
 </p>
 <p align="center">
-📧 Or shoot me an email directly at: <strong>ayushjadaun6@gmail.com</strong>
+📧 Or shoot me an email directly at: <strong>tanish41813@gmail.com</strong>
 </p>
 
 
