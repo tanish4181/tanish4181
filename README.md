@@ -6,6 +6,8 @@
   </a>
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
 <details>
@@ -49,7 +51,7 @@ OLMS is a web-based platform for managing library operations like book inventory
 
 </details>
 
-<br><br>
+---
 ## 💼 About Me
 
 <img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
@@ -62,8 +64,7 @@ OLMS is a web-based platform for managing library operations like book inventory
 - 🧩 Love solving complex problems with elegant solutions
 - 💡 Fun fact: I believe the best solutions come from blending different disciplines
 
-<br><br>
-
+---
 ## 🛠 Core Skills
 
 <div align="center">
@@ -76,7 +77,7 @@ OLMS is a web-based platform for managing library operations like book inventory
   </a>
 </p>
 
-<br><br>
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,7 +100,7 @@ OLMS is a web-based platform for managing library operations like book inventory
 </div>
 
 
-<br><br>
+---
 ## 📜 Achievements & Certifications
 
 <details>
@@ -110,14 +111,13 @@ OLMS is a web-based platform for managing library operations like book inventory
 
 </details>
 
-<br><br>
-
+---
 ## 👨‍💻 Coding Metrics
 
 <div align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Metrics" width="300"/>
 </div>
-
+<br><br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanish4181&theme=tokyonight" alt="Profile Summary" />
 </div>
@@ -127,7 +127,8 @@ OLMS is a web-based platform for managing library operations like book inventory
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanish4181&theme=tokyonight" alt="Repos per Language" />
 </div>
 
-<br><br>
+---
+
 ## 🤝 Let’s Connect
 
 <p align="center">
@@ -138,7 +139,7 @@ OLMS is a web-based platform for managing library operations like book inventory
 <a href="https://www.youtube.com/c/tanish4181y" target="blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
 </p>
 
-<br><br>
+---
 
 ## ☕ Support My Work
 
@@ -147,11 +148,11 @@ OLMS is a web-based platform for managing library operations like book inventory
 <a href="https://ko-fi.com/tanish4181"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a>
 </p>
 
-<br><br>
+---
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Tech Quote" />
 </div>
-<br><br>
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>  
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
