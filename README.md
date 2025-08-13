@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish4181&label=Profile%20views&color=0e75b6&style=flat-square" alt="Tanish Sharma Profile Views" /> </p>
+
 
 ---
 
