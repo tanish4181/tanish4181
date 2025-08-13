@@ -132,8 +132,8 @@ OLMS is a web-based platform for managing library operations like book inventory
 ## 🤝 Let’s Connect
 
 <p align="center">
-<!-- <a href="https://twitter.com/tansh411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish4181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish4181" height="30" width="40" /></a> -->
+<a href="https://twitter.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanish4181" height="30" width="40" /></a>
 <a href="https://medium.com/@tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanish4181" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Tanish4181y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanish4181y" height="30" width="40" /></a>
