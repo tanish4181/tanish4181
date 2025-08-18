@@ -1,151 +1,257 @@
-# <div align="center">👋 Hello World, I'm Tanish Sharma</div>
+# <div align="center">Hello World, I am Tanish Sharma</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%2FML%20Engineer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Automating%20the%20Future%20%7C%20Building%20Intelligent%20Solutions&descAlignY=51&descAlign=50" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer;Automation+Enthusiast;Aspiring+Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish4181&label=Profile%20views&color=0e75b6&style=flat-square" alt="Tanish Sharma Profile Views" /> </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanish4181&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tanish4181?style=for-the-badge&color=0e75b6&labelColor=1c1c1c" alt="Followers" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## **About Me**
 
-<details>
-<summary><b>📌 Tab Tammer – Distraction-Free Web Browsing</b></summary>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="200" alt="Coding"/>
 
-**Tech Stack:** JavaScript, HTML, CSS, Chrome Extension APIs  
+```yaml
+name: Tanish Sharma
+role: AI/ML Engineer & Automation Enthusiast
+location: India 🇮🇳
+currently_building: "Tab Tammer - Smart automation browser extension"
+learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
+interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
+goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
+looking_for: ["AI/ML Internships", "Full-time roles", "Automation Projects"]
+contact: tanish41813@gmail.com
+portfolio: "https://tanish4181.github.io/PortfolioWebsite/"
+motto: "Building solutions that matter"
+passion: "Building intelligent systems that solve real problems"
+```
 
-**📌 Overview:**  
-Tab Tammer is a browser extension that helps users stay focused by limiting unnecessary tabs and blocking distracting sites.
+<br clear="both"/>
 
-**✨ Key Features:**  
-- ⛔ Block distracting websites.  
-- 📊 Track browsing habits.  
-- ⏱ Set time limits for sites.  
-- 🛠 Customizable blocklist and focus timer.  
+---
 
-**🔗 Repository:** [View on GitHub](https://github.com/tanish4181/TabTammer)  
-**🌐 Live Extension:** [Add to Browser](https://link-to-extension.com)  
+## **Featured Projects**
+
+<details open>
+<summary><b> Tab Tammer – Distraction-Free Web Browsing</b></summary>
+<br>
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+**✨ Key Features:**
+-  Block distracting websites with smart filtering
+-  Track browsing habits and productivity metrics
+-  Set customizable time limits for specific sites
+-  Fully customizable blocklist and focus timer
+-  Modern UI with multiple theme options
+
+**🔗 Links:**
+<p>
+<a href="https://github.com/tanish4181/TabTammer" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
+</a>
+</p>
 
 </details>
 
+<details open>
+<summary><b> OLMS – Online Library Management System</b></summary>
+<br>
 
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**✨ Key Features:**
+-  Complete book management system (Add/Edit/Delete)
+-  Separate dashboards for Admin and Students
+-  Advanced search by title, author, or category
+-  Automated issue/return tracking with fine calculation
+-  Learning history of Student and analytics page for Student and Admin
+
+**🔗 Links:**
+<p>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Documentation-4FC08D?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+</p>
+
+</details>
 
 <details>
-<summary><b>📚 OLMS – Online Library Management System</b></summary>
+<summary><b>💼 More Exciting Projects Coming Soon...</b></summary>
+<br>
 
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-
-**📌 Overview:**  
-OLMS is a web-based platform for managing library operations like book inventory, user management, and tracking issued/returned books.
-
-**✨ Key Features:**  
-- 📚 Book management (Add/Edit/Delete).  
-- 👥 Separate dashboards for Admin and Students.  
-- 🔍 Search books by title, author, or category.  
-- ⏱ Track issue/return with automated fine calculation.  
-- 📊 Monthly usage reports.  
-
-**🔗 Repository:** [View on GitHub](https://github.com/yourusername/OLMS)  
-**📄 Documentation:** [Read More](https://yourwebsite.com/olms-docs)  
+In Progress
 
 </details>
 
 ---
-## 💼 About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
-
-- 🔭 Currently building **Tab Tammer**
-- 🌱 Learning **Machine Learning & AI**
-- 🎯 Looking for **Internship / Full-Time / Collaboration** roles
-- 📫 Reach me at **tanish41813@gmail.com**
-- 🌐 Visit my **[Portfolio](https://tanish4181.github.io/PortfolioWebsite/)**
-- 🧩 Love solving complex problems with elegant solutions
-- 💡 Fun fact: I believe the best solutions come from blending different disciplines
-
----
-## 🛠 Core Skills
+## 🛠 **Tech Arsenal**
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Skills" width="300"/>
 </div>
 
+### **Core Skills**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,bootstrap,git,postman,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,bootstrap,git,postman,mysql&theme=dark" />
 </p>
 
----
-## 📊 GitHub Stats
-
+### **Tools & Technologies**
 <div align="center">
   
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tanish4181&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
-  
-  <br><br>
-  
-  <!-- Top Languages & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanish4181&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" /> 
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish4181&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" height="150" alt="GitHub Stats" />
-
-  <br><br>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanish4181&theme=tokyo-night&hide_border=true&area=true" alt="Tanish Activity Graph" />
+| **Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
+|---------------|--------------|-------------|--------------|-----------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | | | |
 
 </div>
 
+---
+
+##  **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanish4181&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish4181&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanish4181&theme=radical&hide_border=true)
+
+</div>
+
+### **GitHub Trophies**
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=tanish4181&theme=radical&no-frame=true&row=1&column=6)
+
+</div>
+
+### **Contribution Activity**
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanish4181&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
-## 📜 Achievements & Certifications
+
+##  **Achievements & Certifications**
 
 <details>
-  <summary>Click to expand</summary>
+<summary><b> View My Certifications</b></summary>
+<br>
 
-  ### Certificates
-  - CS50x by Harvard University
+**🎓 Completed Courses:**
+- **CS50x - Introduction to Computer Science** | Harvard University
+- **Programming Fundamentals** | Self-paced Learning
+- **Web Development Basics** | Multiple Platforms
+
+** Coding Milestones:**
+- ⭐ 2+ Years of Programming Experience
+- 🚀 10+ Projects Successfully Completed
+- 💻 Active Open Source Contributor
 
 </details>
 
 ---
-## 👨‍💻 Coding Metrics
+
+##  **Let's Connect & Collaborate**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Metrics" width="300"/>
-</div>
-<br><br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanish4181&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build something amazing together!</b></em>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanish4181&theme=tokyonight" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanish4181&theme=tokyonight" alt="Repos per Language" />
+  <a href="mailto:tanish41813@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tanish4181" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tanish4181.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tanish4181" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.leetcode.com/tanish4181" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/tanish4181" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@tanish4181" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Tanish4181y" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+##  **Support My Work**
 
-<p align="center">
-<a href="https://twitter.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanish4181" height="30" width="40" /></a>
-<a href="https://medium.com/@tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanish4181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Tanish4181y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanish4181y" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanish4181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanish4181" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
+  <a href="https://www.buymeacoffee.com/tanish4181">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</div>
 
 ---
 
-## ☕ Support My Work
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/tanish4181"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Tanish%20Sharma-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge" />
+</div>
