@@ -26,18 +26,18 @@
 
 
 ```yaml
-name: Tanish Sharma
-role: AI/ML Engineer & Automation Enthusiast
-location: India 🇮🇳
-currently_building: "PromoTimer- A smart promodoro timer extension with many advance feature"
-learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
-interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
-goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
-looking_for: ["AI/ML Internships", "Full-time roles", "Automation Projects"]
-contact: tanish41813@gmail.com
-portfolio: "https://tanish4181.github.io/PortfolioWebsite/"
-motto: "Building solutions that matter"
-passion: "Building intelligent systems that solve real problems"
+Name: Tanish Sharma
+Role: AI/ML Engineer & Automation Enthusiast
+Location: India 🇮🇳
+Currently_building: "PromoTimer- A smart promodoro timer extension with many advance feature"
+Learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
+Interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
+Goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
+Looking_for: ["AI/ML Internships", "Full-time roles", "Automation Projects"]
+Contact: tanish41813@gmail.com
+Portfolio: "https://tanish4181.github.io/PortfolioWebsite/"
+Motto: "Building solutions that matter"
+Passion: "Building intelligent systems that solve real problems"
 ```
 
 <br clear="both"/>
