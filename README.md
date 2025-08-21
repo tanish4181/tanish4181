@@ -66,7 +66,7 @@ passion: "Building intelligent systems that solve real problems"
 - **Auto-start**: Automatically start breaks and focus sessions
 - **Session Tracking**: Keep track of completed sessions
 
-** Productivity Features**
+**Productivity Features**
 - **Task Management**: Add and track tasks for each session
 - **Website Blocking**: Block distracting websites during focus time
 - **YouTube Integration**: Automatically pause videos and hide distractions
@@ -290,7 +290,7 @@ In Progress
 ##  **Support My Work**
 
 <div align="center">
-  <p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
+  <p>If you like my work and want to support me, consider buying me a coffee! and upi</p>
   <a href="https://www.buymeacoffee.com/tanish4181">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
