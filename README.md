@@ -29,7 +29,7 @@
 name: Tanish Sharma
 role: AI/ML Engineer & Automation Enthusiast
 location: India 🇮🇳
-currently_building: "Tab Tammer - Smart automation browser extension"
+currently_building: "PromoTimer- A smart promodoro timer extension with many advance feature"
 learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
 interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
 goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
@@ -46,7 +46,58 @@ passion: "Building intelligent systems that solve real problems"
 
 ## **Featured Projects**
 
-<details open>
+<details>
+<summary><b> PromoTimer – Ultra Smart Pomodoro Timer</b></summary>
+<br>
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+**✨ Key Features:**
+**Core Timer Functionality**
+- **Focus Sessions**: 25-minute focus periods (customizable)
+- **Short Breaks**: 5-minute breaks between sessions (customizable)  
+- **Long Breaks**: 15-minute breaks after 4 sessions (customizable)
+- **Auto-start**: Automatically start breaks and focus sessions
+- **Session Tracking**: Keep track of completed sessions
+
+** Productivity Features**
+- **Task Management**: Add and track tasks for each session
+- **Website Blocking**: Block distracting websites during focus time
+- **YouTube Integration**: Automatically pause videos and hide distractions
+- **Break Enforcement**: Overlay to ensure you take proper breaks
+
+**Statistics & Analytics**
+- **Daily Statistics**: Track focus time, sessions, and break adherence
+- **Productivity Score**: Get insights into your productivity patterns
+- **Export Data**: Export your statistics for analysis
+- **Visual Charts**: See your progress with interactive charts
+
+**Customization**
+- **Flexible Settings**: Customize timer durations and behavior
+- **Notification Control**: Desktop notifications and sound alerts
+- **Break Enforcement**: Choose how strictly breaks are enforced
+- **Data Privacy**: All data stored locally on your device
+- *Many advanced features under development*
+
+**🔗 Links:**
+<p>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
+</a>
+</p>
+
+</details>
+
+<details>
 <summary><b> Tab Tammer – Distraction-Free Web Browsing</b></summary>
 <br>
 
@@ -77,7 +128,7 @@ passion: "Building intelligent systems that solve real problems"
 
 </details>
 
-<details open>
+<details>
 <summary><b> OLMS – Online Library Management System</b></summary>
 <br>
 
@@ -99,18 +150,21 @@ passion: "Building intelligent systems that solve real problems"
 
 **🔗 Links:**
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/tanish4181/OLMS-Online-Library-Management-System" target="_blank">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Documentation-4FC08D?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<a href="https://olms.great-site.net/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=web&logoColor=white" />
+</a>
+<a href="https://github.com/tanish4181/OLMS-Online-Library-Management-System/blob/main/README.md" target="_blank">
+  <img src="https://img.shields.io/badge/Know%20About%20Project-4FC08D?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
 
 </details>
 
 <details>
-<summary><b>💼 More Exciting Projects Coming Soon...</b></summary>
+<summary><b> More Exciting Projects Coming Soon...</b></summary>
 <br>
 
 In Progress
@@ -208,9 +262,6 @@ In Progress
   <a href="mailto:tanish41813@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tanish4181" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://tanish4181.github.io/PortfolioWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -243,6 +294,42 @@ In Progress
   <a href="https://www.buymeacoffee.com/tanish4181">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
+  <br><br>
+  <details>
+    <summary>
+      <div align="center">
+        <em>💳 Click to view UPI details & QR code</em>
+      </div>
+    </summary>
+    <br>
+    <div align="center">
+      <h3>🇮🇳 UPI Payment Details</h3>
+      <br>
+      <table align="center">
+        <tr>
+          <td align="center">
+            <h4>📱 UPI ID</h4>
+            <kbd>tanish.sharma06@axl</kbd>
+            <br><br>
+            <em>Copy this ID to any UPI app</em>
+          </td>
+          <td align="center">
+            <h4>📱 QR Code</h4>
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=upi://pay?pa=tanish.sharma06@axl%26pn=Tanish%2520Sharma%26cu=INR" alt="UPI QR Code" />
+            <br>
+            <em>Scan with any UPI app</em>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Supports-PhonePe-663399?style=flat-square&logo=phonepe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supports-GooglePay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supports-Paytm-1C2C94?style=flat-square&logo=paytm&logoColor=white" />
+      </p>
+      <p><em>💡 Works with all major UPI applications in India</em></p>
+    </div>
+  </details>
 </div>
 
 ---
