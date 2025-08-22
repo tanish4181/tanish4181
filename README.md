@@ -29,7 +29,7 @@
 Name: Tanish Sharma
 Role: AI/ML Engineer & Automation Enthusiast
 Location: India 🇮🇳
-Currently_building: "PromoTimer- A smart promodoro timer extension with many advance feature"
+Currently_building: "Kairo – Advanced Pomodoro Timer & Productivity Extension"
 Learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
 Interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
 Goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
@@ -47,7 +47,7 @@ Passion: "Building intelligent systems that solve real problems"
 ## **Featured Projects**
 
 <details>
-<summary><b> PromoTimer – Ultra Smart Pomodoro Timer</b></summary>
+<summary><b>Kairo – Advanced Pomodoro Timer & Productivity Extension</b></summary>
 <br>
 
 **Tech Stack:**
@@ -83,7 +83,7 @@ Passion: "Building intelligent systems that solve real problems"
 - **Notification Control**: Desktop notifications and sound alerts
 - **Break Enforcement**: Choose how strictly breaks are enforced
 - **Data Privacy**: All data stored locally on your device
-- *Many advanced features under development*
+- **Many advanced features under development**
 
 **🔗 Links:**
 <p>
@@ -98,7 +98,7 @@ Passion: "Building intelligent systems that solve real problems"
 </details>
 
 <details>
-<summary><b> Tab Tammer – Distraction-Free Web Browsing</b></summary>
+<summary><b>YoutubeDistractionBlocker- Browser Extension to Block Distraction on Youtube</b></summary>
 <br>
 
 **Tech Stack:**
@@ -110,15 +110,14 @@ Passion: "Building intelligent systems that solve real problems"
 </p>
 
 **✨ Key Features:**
--  Block distracting websites with smart filtering
--  Track browsing habits and productivity metrics
--  Set customizable time limits for specific sites
--  Fully customizable blocklist and focus timer
--  Modern UI with multiple theme options
+-  Block Youtube shorts completely on youtube so you can protect yourself from mindless Scrolling
+-  Hide youtube recommendation and comments so you can focus on what you decided
+- Apply all the changes without need of refreshing.
+-  Minimal and Lightweight
 
 **🔗 Links:**
 <p>
-<a href="https://github.com/tanish4181/TabTammer" target="_blank">
+<a href="https://github.com/tanish4181/YoutubeDistractionBlocker" target="_blank">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="#" target="_blank">
@@ -184,17 +183,7 @@ In Progress
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,bootstrap,git,postman,mysql&theme=dark" />
 </p>
 
-### **Tools & Technologies**
-<div align="center">
-  
-| **Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
-|---------------|--------------|-------------|--------------|-----------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | | | |
 
-</div>
 
 ---
 
