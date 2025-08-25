@@ -29,7 +29,7 @@
 Name: Tanish Sharma
 Role: AI/ML Engineer & Automation Enthusiast
 Location: India 🇮🇳
-Currently_building: "Kairo – Advanced Pomodoro Timer & Productivity Extension"
+Currently_building: "FlowLock – Advanced Pomodoro Timer & Productivity Extension"
 Learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
 Interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
 Goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
@@ -47,7 +47,7 @@ Passion: "Building intelligent systems that solve real problems"
 ## **Featured Projects**
 
 <details>
-<summary><b>Kairo – Advanced Pomodoro Timer & Productivity Extension</b></summary>
+<summary><b>FlowLock – Advanced Pomodoro Timer & Productivity Extension</b></summary>
 <br>
 
 **Tech Stack:**
@@ -90,7 +90,7 @@ Passion: "Building intelligent systems that solve real problems"
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://chromewebstore.google.com/detail/lfemlbobpkcpehfkjgeaikoocdhijjkj?utm_source=item-share-cb" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
 </a>
 </p>
@@ -110,17 +110,22 @@ Passion: "Building intelligent systems that solve real problems"
 </p>
 
 **✨ Key Features:**
--  Block Youtube shorts completely on youtube so you can protect yourself from mindless Scrolling
--  Hide youtube recommendation and comments so you can focus on what you decided
-- Apply all the changes without need of refreshing.
--  Minimal and Lightweight
+- **Hide Recommendations**: Block YouTube's sidebar recommendations to prevent distractions
+- **Hide Comments**: Remove comment sections to maintain focus on content
+- **Hide All Shorts**: Completely block YouTube Shorts to avoid mindless scrolling  
+- **Hide Main Feed**: Remove the main feed/homepage for distraction-free browsing
+- **Hide Live Chat**: Disable live chat during streams for better concentration
+- **Hide Video Titles**: Hide video titles to reduce clickbait temptation
+- **Hide Channel Names**: Remove channel names to focus purely on content
+- **Instant Application**: Apply all changes without needing to refresh the page
+- **Minimal & Lightweight**: Clean interface with minimal resource usage
 
 **🔗 Links:**
 <p>
 <a href="https://github.com/tanish4181/YoutubeDistractionBlocker" target="_blank">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://chromewebstore.google.com/detail/goonppdhiahdffbbifegmpgickeedobl?utm_source=item-share-cb" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
 </a>
 </p>
@@ -199,17 +204,11 @@ In Progress
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=tanish4181&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tanish4181&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-### **GitHub Trophies**
 
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=tanish4181&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
 
 ### **Contribution Activity**
 
