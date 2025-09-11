@@ -1,332 +1,112 @@
-# <div align="center">Hello World, I am Tanish Sharma</div>
+![Tanish Sharma Banner](https://capsule-render.vercel.app/api?type=rect&color=1e3c72,E0EAFC&height=160&section=header&text=Tanish%20Sharma&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%2FML%20Engineer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Automating%20the%20Future%20%7C%20Building%20Intelligent%20Solutions&descAlignY=51&descAlign=50" />
+  <span style="font-size:22px; color:#1e3c72;"><b>Student | AI/ML & Full Stack Enthusiast</b></span>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer;Automation+Enthusiast;Aspiring+Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=1E3C72&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Automation+Learner;Full+Stack+Builder;Open+Source+Contributor" alt="Typing SVG" />
 </div>
+
+---
+
+## <span style="color:#1e3c72"><b>About</b></span>
+
+- <span style="color:#1976D2"><b>Student developer</b></span> from India, passionate about <span style="color:#1976D2">AI/ML, automation, and web development</span>.
+- Currently building: <b style="color:#1976D2">ProTimer</b> (Pomodoro productivity app)
+- Learning: <span style="color:#1976D2">Machine Learning, Full Stack, Automation</span>
+- Interested in: <span style="color:#1976D2">AI, intelligent systems, open source, building helpful tools</span>
+
+---
+
+<!--
+## <span style="color:#1e3c72"><b>Featured Projects</b></span>
+
+- [ProTimer](https://github.com/tanish4181/ProTimer): Advanced Pomodoro Timer with productivity stats.
+- [OLMS – Online Library Management System](https://github.com/tanish4181/OLMS-Online-Library-Management-System) ([Demo](https://olms.great-site.net/)): Complete library management.
+- [X](https://github.com/tanish4181/X): Personal experiments & learning projects.
+-->
+
+---
+
+## <span style="color:#1e3c72"><b>Tech Stack</b></span>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanish4181&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tanish4181?style=for-the-badge&color=0e75b6&labelColor=1c1c1c" alt="Followers" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,php,cpp,mysql,git&theme=dark" />
 </p>
 
 ---
 
-## **About Me**
-
-
-
-```yaml
-Name: Tanish Sharma
-Role: AI/ML Engineer & Automation Enthusiast
-Location: India 🇮🇳
-Currently_building: "FlowLock – Advanced Pomodoro Timer & Productivity Extension"
-Learning: ["Advanced Machine Learning", "Full Stack Development", "Process Automation"]
-Interests: ["Artificial Intelligence", "Automation", "Intelligent Systems"]
-Goals: ["Become Full Stack Developer", "Master AI/ML", "Build Automated Solutions"]
-Looking_for: ["AI/ML Internships", "Full-time roles", "Automation Projects"]
-Contact: tanish41813@gmail.com
-Portfolio: "https://tanish4181.github.io/PortfolioWebsite/"
-Motto: "Building solutions that matter"
-Passion: "Building intelligent systems that solve real problems"
-```
-
-<br clear="both"/>
-
----
-
-## **Featured Projects**
-
-<details>
-<summary><b>FlowLock – Advanced Pomodoro Timer & Productivity Extension</b></summary>
-<br>
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-
-**✨ Key Features:**
-**Core Timer Functionality**
-- **Focus Sessions**: 25-minute focus periods (customizable)
-- **Short Breaks**: 5-minute breaks between sessions (customizable)  
-- **Long Breaks**: 15-minute breaks after 4 sessions (customizable)
-- **Auto-start**: Automatically start breaks and focus sessions
-- **Session Tracking**: Keep track of completed sessions
-
-**Productivity Features**
-- **Task Management**: Add and track tasks for each session
-- **Website Blocking**: Block distracting websites during focus time
-- **YouTube Integration**: Automatically pause videos and hide distractions
-- **Break Enforcement**: Overlay to ensure you take proper breaks
-
-**Statistics & Analytics**
-- **Daily Statistics**: Track focus time, sessions, and break adherence
-- **Productivity Score**: Get insights into your productivity patterns
-- **Export Data**: Export your statistics for analysis
-- **Visual Charts**: See your progress with interactive charts
-
-**Customization**
-- **Flexible Settings**: Customize timer durations and behavior
-- **Notification Control**: Desktop notifications and sound alerts
-- **Break Enforcement**: Choose how strictly breaks are enforced
-- **Data Privacy**: All data stored locally on your device
-- **Many advanced features under development**
-
-**🔗 Links:**
-<p>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://chromewebstore.google.com/detail/lfemlbobpkcpehfkjgeaikoocdhijjkj?utm_source=item-share-cb" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
-</a>
-</p>
-
-</details>
-
-<details>
-<summary><b>YoutubeDistractionBlocker- Browser Extension to Block Distraction on Youtube</b></summary>
-<br>
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-
-**✨ Key Features:**
-- **Hide Recommendations**: Block YouTube's sidebar recommendations to prevent distractions
-- **Hide Comments**: Remove comment sections to maintain focus on content
-- **Hide All Shorts**: Completely block YouTube Shorts to avoid mindless scrolling  
-- **Hide Main Feed**: Remove the main feed/homepage for distraction-free browsing
-- **Hide Live Chat**: Disable live chat during streams for better concentration
-- **Hide Video Titles**: Hide video titles to reduce clickbait temptation
-- **Hide Channel Names**: Remove channel names to focus purely on content
-- **Instant Application**: Apply all changes without needing to refresh the page
-- **Minimal & Lightweight**: Clean interface with minimal resource usage
-
-**🔗 Links:**
-<p>
-<a href="https://github.com/tanish4181/YoutubeDistractionBlocker" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://chromewebstore.google.com/detail/goonppdhiahdffbbifegmpgickeedobl?utm_source=item-share-cb" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Extension-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" />
-</a>
-</p>
-
-</details>
-
-<details>
-<summary><b> OLMS – Online Library Management System</b></summary>
-<br>
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**✨ Key Features:**
--  Complete book management system (Add/Edit/Delete)
--  Separate dashboards for Admin and Students
--  Advanced search by title, author, or category
--  Automated issue/return tracking with fine calculation
--  Learning history of Student and analytics page for Student and Admin
-
-**🔗 Links:**
-<p>
-<a href="https://github.com/tanish4181/OLMS-Online-Library-Management-System" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://olms.great-site.net/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=web&logoColor=white" />
-</a>
-<a href="https://github.com/tanish4181/OLMS-Online-Library-Management-System/blob/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/Know%20About%20Project-4FC08D?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-</p>
-
-</details>
-
-<details>
-<summary><b> More Exciting Projects Coming Soon...</b></summary>
-<br>
-
-In Progress
-
-</details>
-
----
-
-## 🛠 **Tech Arsenal**
+## <span style="color:#1e3c72"><b>GitHub Analytics</b></span>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Skills" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish4181&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tanish4181&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish4181&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
-### **Core Skills**
+---
+
+## <span style="color:#1e3c72"><b>Connect</b></span>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,bootstrap,git,postman,mysql&theme=dark" />
+  <a href="mailto:tanish41813@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tanish4181.github.io/PortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/tanish4181"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/tanish4181"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-
-
 ---
 
-##  **GitHub Analytics**
+## <span style="color:#1e3c72"><b>Support</b></span>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanish4181&show_icons=true&theme=radical&hide_border=true&count_private=true)
+If you find my projects useful, consider supporting my work.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish4181&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tanish4181&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-
-
-### **Contribution Activity**
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanish4181&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-##  **Achievements & Certifications**
-
-<details>
-<summary><b> View My Certifications</b></summary>
-<br>
-
-**🎓 Completed Courses:**
-- **CS50x - Introduction to Computer Science** | Harvard University
-- **Programming Fundamentals** | Self-paced Learning
-- **Web Development Basics** | Multiple Platforms
-
-** Coding Milestones:**
-- ⭐ 2+ Years of Programming Experience
-- 🚀 10+ Projects Successfully Completed
-- 💻 Active Open Source Contributor
-
-</details>
-
----
-
-##  **Let's Connect & Collaborate**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build something amazing together!</b></em>
-</div>
-
-<div align="center">
-  <a href="mailto:tanish41813@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tanish4181.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tanish4181" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.leetcode.com/tanish4181" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/tanish4181" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@tanish4181" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Tanish4181y" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
----
-
-##  **Support My Work**
-
-<div align="center">
-  <p>If you like my work and want to support me, consider buying me a coffee! and upi</p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/tanish4181">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
-  <br><br>
-  <details>
-    <summary>
-      <div align="center">
-        <em>💳 Click to view UPI details & QR code</em>
-      </div>
-    </summary>
-    <br>
-    <div align="center">
-      <h3>🇮🇳 UPI Payment Details</h3>
-      <br>
-      <table align="center">
-        <tr>
-          <td align="center">
-            <h4>📱 UPI ID</h4>
-            <kbd>tanish.sharma06@axl</kbd>
-            <br><br>
-            <em>Copy this ID to any UPI app</em>
-          </td>
-          <td align="center">
-            <h4>📱 QR Code</h4>
-            <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=upi://pay?pa=tanish.sharma06@axl%26pn=Tanish%2520Sharma%26cu=INR" alt="UPI QR Code" />
-            <br>
-            <em>Scan with any UPI app</em>
-          </td>
-        </tr>
-      </table>
-      <br>
-      <p>
-        <img src="https://img.shields.io/badge/Supports-PhonePe-663399?style=flat-square&logo=phonepe&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supports-GooglePay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supports-Paytm-1C2C94?style=flat-square&logo=paytm&logoColor=white" />
-      </p>
-      <p><em>💡 Works with all major UPI applications in India</em></p>
-    </div>
-  </details>
+</p>
+
+<details>
+<summary>
+  <div align="center">
+    View UPI details and QR code
+  </div>
+</summary>
+<br>
+<div align="center">
+  <h3>UPI Payment Details</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <strong>UPI ID</strong><br>
+        <kbd>tanish.sharma06@axl</kbd>
+        <br><br>
+        Copy this ID to any UPI app
+      </td>
+      <td align="center">
+        <strong>QR Code</strong><br>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=upi://pay?pa=tanish.sharma06@axl%26pn=Tanish%2520Sharma%26cu=INR" alt="UPI QR Code" />
+        <br>
+        Scan with any UPI app
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Supports-PhonePe-663399?style=flat-square&logo=phonepe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supports-GooglePay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supports-Paytm-1C2C94?style=flat-square&logo=paytm&logoColor=white" />
+  </p>
+  <p>Works with all major UPI apps in India</p>
 </div>
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Tanish%20Sharma-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge" />
+  <sub>Open to collaboration and internships.</sub>
 </div>
