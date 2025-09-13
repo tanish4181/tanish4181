@@ -11,15 +11,14 @@
 </div>
 
 ---
-
 ## <span style="color:#1e3c72"><b>About</b></span>
 
 - <span style="color:#1976D2"><b>Student developer</b></span> from India, passionate about <span style="color:#1976D2">AI/ML, automation, and web development</span>.
-- Currently building: <b style="color:#1976D2">ProTimer</b> (Pomodoro productivity app)
+- Created tools and extensions that are helping 100+ users online improve their workflow.
 - Learning: <span style="color:#1976D2">Machine Learning, Full Stack, Automation</span>
 - Interested in: <span style="color:#1976D2">AI, intelligent systems, open source, building helpful tools</span>
 
----
+
 
 <!--
 ## <span style="color:#1e3c72"><b>Featured Projects</b></span>
@@ -60,52 +59,8 @@
 
 ---
 
-## <span style="color:#1e3c72"><b>Support</b></span>
 
-If you find my projects useful, consider supporting my work.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tanish4181">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
-<details>
-<summary>
-  <div align="center">
-    View UPI details and QR code
-  </div>
-</summary>
-<br>
-<div align="center">
-  <h3>UPI Payment Details</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <strong>UPI ID</strong><br>
-        <kbd>tanish.sharma06@axl</kbd>
-        <br><br>
-        Copy this ID to any UPI app
-      </td>
-      <td align="center">
-        <strong>QR Code</strong><br>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=upi://pay?pa=tanish.sharma06@axl%26pn=Tanish%2520Sharma%26cu=INR" alt="UPI QR Code" />
-        <br>
-        Scan with any UPI app
-      </td>
-    </tr>
-  </table>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Supports-PhonePe-663399?style=flat-square&logo=phonepe&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supports-GooglePay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supports-Paytm-1C2C94?style=flat-square&logo=paytm&logoColor=white" />
-  </p>
-  <p>Works with all major UPI apps in India</p>
-</div>
-</details>
-
----
 
 <div align="center">
   <sub>Open to collaboration and internships.</sub>
