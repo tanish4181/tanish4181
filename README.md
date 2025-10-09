@@ -1,39 +1,17 @@
-# 👋 Tanish Sharma
+# Hi, I'm Tanish
 
-**Full-Stack Developer | AI/ML Enthusiast | Building Tools for 200+ Users**
+Developer passionate about AI/ML, automation, and web development. I've created tools that help 200+ people improve their workflow and I love solving new problems through hands-on learning. Always looking for interesting challenges to tackle.
 
-## 🚀 What I Do
+**Skills**
 
-I build intelligent automation tools and full-stack web applications. Currently developing MirrorMe, an AI-powered personal assistant, while exploring machine learning and cloud architecture.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💻 Tech Stack
+💡 Want to collaborate? Feel free to reach out to me through the social links on my GitHub profile.
 
-**Languages:** Python • JavaScript • TypeScript • C++
-
-**Frontend:** React • Next.js • TailwindCSS
-
-**Backend:** Node.js • MySQL • MongoDB
-
-**Tools:** Git • VS Code • Vercel
-
-## 🎯 Featured Projects
-
-**[MirrorMe](https://github.com/tanish4181/MirrorMe)** - AI personal assistant & second brain (TypeScript, in development)
-
-**[OLMS](https://github.com/tanish4181/OLMS-Online-Library-Management-System)** - Full-stack library management system (PHP, MySQL, ⭐ 3 stars)
-
-**[YouTube Distraction Blocker](https://github.com/tanish4181/YoutubeDistractionBlocker)** - Productivity-focused browser extension (JavaScript)
-
-## 📫 Connect
-
-**Portfolio:** [tanish4181.vercel.app](https://tanish4181.vercel.app/)
-
-**GitHub:** [@tanish4181](https://github.com/tanish4181)
-
-**Twitter:** [@tanish4181](https://x.com/tanish4181)
-
-**Email:** tanish4181@gmail.com
-
----
-
-*Open to collaboration and interesting projects. Let's build something great.*
+For more info, visit my [Portfolio](https://tanish4181.vercel.app/)
