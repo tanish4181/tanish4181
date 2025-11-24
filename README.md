@@ -14,4 +14,4 @@ Developer passionate about AI/ML, automation, and web development. I've created 
 
 💡 Want to collaborate? Feel free to reach out to me through the social links on my GitHub profile.
 
-For more info, visit my [Portfolio](https://tanish4181.vercel.app/)
+For more info, visit my Portfolio 
